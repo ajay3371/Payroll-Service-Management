@@ -1,0 +1,31 @@
+# Ignore Django migration files
+**/migrations/
+
+# Ignore Django database file
+*.sqlite3
+
+# Ignore Django secret key file
+*.key
+
+# Ignore Django static files
+**/static/
+
+# Ignore Django media files
+**/media/
+
+# Ignore Django configuration files
+**/local_settings.py
+
+# Ignore Python byte code files
+**/__pycache__/
+
+# Ignore IDE specific files
+**/*.idea/
+**/*.vscode/
+
+# Ignore Django Rest Framework settings file
+**/rest_framework_settings.py
+venv/
+.env
+README.md
+LICENSE
