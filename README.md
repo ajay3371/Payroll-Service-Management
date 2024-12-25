@@ -1,15 +1,3 @@
-# Payroll Service Management
-
-A comprehensive payroll management system designed to streamline and automate payroll calculations, user-employer management, and notifications, providing significant improvements in accuracy, efficiency, and communication.
-
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [API Endpoints](#api-endpoints)
-5. [Setup & Installation](#setup--installation)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Project Overview
 
